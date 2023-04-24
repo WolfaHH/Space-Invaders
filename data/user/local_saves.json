@@ -1,0 +1,611 @@
+{
+    "None": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 1429
+    },
+    "None2": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 0
+    },
+    "test": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 8073
+    },
+    "nathanael": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 2833
+    },
+    "yo": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 4665
+    },
+    "nath": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 976
+    },
+    "hghghg": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 326
+    },
+    "fgfgfgf": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 420
+    },
+    "dffd": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 0
+    },
+    "dfdfd": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 530
+    },
+    "sqdsd": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 777
+    },
+    "hghgfgf": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 0
+    },
+    "xvdfvdfd": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 1196
+    },
+    "cvdvdvd": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 477
+    },
+    "fdffdfdf": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 1148
+    },
+    "ghghghg": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 4769
+    },
+    "cdfdfd": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 5734
+    },
+    "nathanaan": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 1906
+    },
+    "lilwen": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 8564
+    },
+    "efefe": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 0
+    },
+    "erfefefe": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 650
+    },
+    "mat": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 1001
+    },
+    "yg": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 1226
+    },
+    "vxcsxwcxwc": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 1319
+    },
+    "wwxwx": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 5495
+    },
+    "fdfssfsdfss": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 895
+    },
+    "DSDQQDQ": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 130
+    },
+    "fssfss": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 0
+    },
+    "Wolfa'": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 4388
+    }
+}
